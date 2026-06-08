@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+![](https://komarev.com/ghpvc/?username=lkyuca&style=flat-square&color=blue)
 
 Welcome to my GitHub profile!
 
