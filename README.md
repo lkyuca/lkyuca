@@ -1,3 +1,7 @@
 ## Hi there 👋
 
-[![](https://visitcount.itsvg.in/api/VisitCount?user=lkyuca&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in/api/VisitCount?user=lkyuca&label=Profile%20Views&color=12&icon=5&pretty=true)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+
+Welcome to my GitHub profile!
+
+Feel free to check out my repositories and projects. Let's build something amazing together! 🚀
