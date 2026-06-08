@@ -1,9 +1,8 @@
-## Hi there 👋
+## Welcome to my GitHub profile! 👋
 
-![](https://komarev.com/ghpvc/?username=lkyuca&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=lkyuca&style=flat-square&color=red)
 
 **Total Repositories Views:** 0
 
-Welcome to my GitHub profile!
 
-Feel free to check out my repositories and projects. Let's build something amazing together! 🚀
+
