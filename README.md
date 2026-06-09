@@ -17,7 +17,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/lkyuca">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lkyuca&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="lkyuca's GitHub Stats" />
   </a>
