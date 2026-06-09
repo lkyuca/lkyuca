@@ -24,7 +24,6 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lkyuca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
 
 ## snake
 <picture>
