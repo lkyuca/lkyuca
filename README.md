@@ -20,10 +20,10 @@
 
 <p align="left">
 🌾 Lately I've been getting into scripting for the game "The Farmer Was Replaced"<br>
-📡 Proud owner of an ALFA AWUS1900 — WiFi hacking is a hobby<br>
+📡 hacking tool i enjoy is the ALFA AWUS1900 — WiFi hacking is fun<br>
 🏍️ Motorcycle enthusiast when I'm not behind a screen<br>
 🔐 I have a passion for cybersecurity, tools, and automation<br>
-🖥️ I enjoy completing TryHackMe rooms in my free time
+🖥️ I like completing TryHackMe rooms in my free time
 </p>
 
 
