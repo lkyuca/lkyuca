@@ -14,10 +14,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lkyuca/lkyuca/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lkyuca.lkyuca&right_color=crimson"  />
 </div>
