@@ -1,6 +1,3 @@
-## Welcome to my GitHub profile! 👋
-🧑‍💻 Cybersecurity graduate | Kali enjoyer most public repos are scripts in hacking games i used. Feel free to use any
-
 <h2 align="left">Welcome to my GitHub profile! 👋</h2>
 
 ###
