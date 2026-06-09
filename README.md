@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to my GitHub profile! 👋</h2>
+<h2 align="left">my GitHub profile! 👋</h2>
 
 ###
 
@@ -10,8 +10,21 @@
 
 ###
 
-<p align="left">I enjoy creating guides and scripts, and have experience performing penetration tests for companies. Lately I've been getting into scripting for the game "The Farmer Was Replaced". i have a passion for cybersecurity, tools, and automation. I also enjoy completing TryHackMe rooms in my free time.</p>
+<p align="left">I enjoy creating guides and scripts, and have experience performing penetration tests for companies.
+  
+ ###
 
+<h2 align="left">Fun Facts</h2>
+
+###
+
+<p align="left">
+🌾 Lately I've been getting into scripting for the game "The Farmer Was Replaced"<br>
+📡 Proud owner of an ALFA AWUS1900 — WiFi hacking is a hobby<br>
+🏍️ Motorcycle enthusiast when I'm not behind a screen<br>
+🔐 I have a passion for cybersecurity, tools, and automation<br>
+🖥️ I enjoy completing TryHackMe rooms in my free time
+</p>
 
 
 
