@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I enjoy creating guides and scripts, and have experience performing penetration tests for companies. Lately I've been getting into scripting for the game The Farmer Was Replaced. I'm 22 years old, with a passion for cybersecurity, tools, and automation. I also enjoy completing TryHackMe rooms in my free time.</p>
+<p align="left">I enjoy creating guides and scripts, and have experience performing penetration tests for companies. Lately I've been getting into scripting for the game "The Farmer Was Replaced". i have a passion for cybersecurity, tools, and automation. I also enjoy completing TryHackMe rooms in my free time.</p>
 
 
 
