@@ -21,7 +21,6 @@
 <p align="left">
 🌾 Lately I've been getting into scripting for the game "The Farmer Was Replaced"<br>
 📡 i own a ALFA AWUS1900 which i use for — WiFi hacking <br>
-🏍️ Motorcycle enthusiast when I'm not behind a screen<br>
 🔐 I have a passion for cybersecurity, tools, and automation<br>
 🖥️ I like completing TryHackMe rooms in my free time
 </p>
