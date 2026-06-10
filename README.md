@@ -44,26 +44,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<h2>📁 My Repositories</h2>
-
-<h4>🎮 Gaming & Automation</h4>
-<p>
-  <a href="https://github.com/lkyuca/BlueStacks-Scripts">BlueStacks-Scripts</a> — game automation scripts<br>
-  <a href="https://github.com/lkyuca/hackmud-scripts">hackmud-scripts</a> — JavaScript scripts for Hackmud<br>
-  <a href="https://github.com/lkyuca/hacker-simulator-decypt-python-script">hacker-simulator</a> — Python decryption automation
-</p>
-
-<h4>🎨 Customization & Ricing</h4>
-<p>
-  <a href="https://github.com/lkyuca/komorebi">komorebi</a> — window manager config<br>
-  <a href="https://github.com/lkyuca/yasb">yasb</a> — statusbar config<br>
-  <a href="https://github.com/lkyuca/Flow-Launcher">Flow-Launcher</a> — launcher settings<br>
-  <a href="https://github.com/lkyuca/ASCII-art">ASCII-art</a> — art & ricing
-</p>
-
-<h4>🔐 Security & Pentest</h4>
-<p>
-  <a href="https://github.com/lkyuca/how-to-hack-WordPress-site-with-Kali-Linux">WordPress Hacking Guide</a> — Kali Linux walkthrough
-</p>
-
-
